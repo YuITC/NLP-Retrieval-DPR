@@ -1,0 +1,11 @@
+numpy
+torch
+accelerate
+transformers
+wget
+ijson
+spacy
+regex
+matplotlib
+tqdm
+loguru

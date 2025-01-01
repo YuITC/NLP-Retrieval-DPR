@@ -1,0 +1,6 @@
+wiki_file  : downloads/sample_5pct_data/wikipedia_split/psgs_w100.tsv
+num_docs   : 1050766 # 21015324
+encoding_bs: 256 # 1024
+max_length : 128 # 256
+
+pretrained_model: trained/step-368/doc_encoder

@@ -1,0 +1,6 @@
+wiki_file  : /kaggle/input/dpr-20pct-data/wikipedia_split/psgs_w100.tsv
+num_docs   : 4203064 # 21015324
+encoding_bs: 256 # 1024
+max_length : 128 # 256
+
+pretrained_model: /kaggle/input/dpr-20pct-data/step-736/doc_encoder

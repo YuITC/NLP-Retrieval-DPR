@@ -1,0 +1,9 @@
+wiki_file : /kaggle/input/dpr-20pct-data/wikipedia_split/psgs_w100.tsv
+num_docs  : 4203064 # 21015324
+num_shards: 2 # 8
+
+nq_test_file: /kaggle/input/dpr-20pct-data/retriever/qas/nq-test.csv
+encoding_bs : 8 # 32
+max_length  : 128 # 256
+
+pretrained_model: /kaggle/input/dpr-20pct-data/step-736/doc_encoder
